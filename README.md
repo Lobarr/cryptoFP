@@ -2,6 +2,7 @@
 
 Interactive command line based “Swiss Army cryptographic toolset for beginners”
 > My `Cryptography and Network Security` final project
+
 > Manual included in repo (`FP User Manual.docx`)
 
 ## Features
